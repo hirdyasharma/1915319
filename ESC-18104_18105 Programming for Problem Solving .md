@@ -16,7 +16,7 @@
   include<stdio.h> 
     int main() 
  { 
-    puts("My Name is Hirdya Sharma\n");
+    puts("My Name is Hirdya Sharma");
     return 0; 
  }
 ```
@@ -28,9 +28,9 @@ _Output:_
 #include<stdio.h> 
 int main() 
 { 
-    puts("Guru Nanak Dev Engineering College,\n");
-    puts("Gill Road,\n");
-    puts("Ludhiana,Punjab,\n");
+    puts("Guru Nanak Dev Engineering College,");
+    puts("Gill Road,");
+    puts("Ludhiana,Punjab,");
     return 0; 
 }
 ```
